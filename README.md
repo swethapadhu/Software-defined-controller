@@ -1,6 +1,6 @@
 ### Software-Defined Concurrency Control of Job/Task Performance Optimization in Hadoop
 
-But manual tuning of these variables becomes difficult as it has to be done offline which doesn’t prove to be very effective. The goal of this project is to design a software-defined feedback controller that can dynamically tune the configurable parameters of a Hadoop Cluster based on the resource utilized which is taken from the measured output.
+The goal of this project is to design a software-defined feedback controller that can dynamically tune the configurable parameters of a Hadoop Cluster based on the resource utilized which is taken from the measured output.
 
 This controller was tested on a 3-node HADOOP cluster. (1 master and 2 slave nodes)
 
